@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dataset 2</folder>
+	<filename>IMG_20200513_005304.jpg</filename>
+	<path>D:\fyp\dataset\dataset 2\IMG_20200513_005304.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snake</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>487</xmin>
+			<ymin>165</ymin>
+			<xmax>525</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>snake</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>520</xmin>
+			<ymin>462</ymin>
+			<xmax>595</xmax>
+			<ymax>553</ymax>
+		</bndbox>
+	</object>
+</annotation>
