@@ -1,0 +1,26 @@
+<annotation>
+	<folder>banded_krait</folder>
+	<filename>banded_krait145.jpg</filename>
+	<path>D:\fyp\dataset\dataset 4\banded_krait\banded_krait145.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snake</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1125</xmin>
+			<ymin>596</ymin>
+			<xmax>1334</xmax>
+			<ymax>722</ymax>
+		</bndbox>
+	</object>
+</annotation>
