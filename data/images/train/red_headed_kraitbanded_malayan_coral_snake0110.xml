@@ -1,0 +1,26 @@
+<annotation>
+	<folder>split video</folder>
+	<filename>red_headed_kraitbanded_malayan_coral_snake0110.jpg</filename>
+	<path>D:\fyp\dataset\dataset 5\banded_malayan_coral_snake\split video\red_headed_kraitbanded_malayan_coral_snake0110.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snake</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>288</ymin>
+			<xmax>311</xmax>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+</annotation>
