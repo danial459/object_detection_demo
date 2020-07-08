@@ -1,0 +1,26 @@
+<annotation>
+	<folder>split video</folder>
+	<filename>malayan_pit_viper0059.jpg</filename>
+	<path>D:\fyp\dataset\dataset 5\malayan_pit_viper\split video\malayan_pit_viper0059.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snake</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>491</xmin>
+			<ymin>300</ymin>
+			<xmax>691</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>
