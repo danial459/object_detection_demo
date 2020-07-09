@@ -1,0 +1,26 @@
+<annotation>
+	<folder>splitted</folder>
+	<filename>mountain_pit_viper_0079.jpg</filename>
+	<path>D:\fyp\dataset\dataset 5\mountain_pit_viper\splitted\mountain_pit_viper_0079.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snake</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>398</xmin>
+			<ymin>265</ymin>
+			<xmax>652</xmax>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+</annotation>
