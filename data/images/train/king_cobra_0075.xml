@@ -1,0 +1,26 @@
+<annotation>
+	<folder>splitted</folder>
+	<filename>king_cobra_0075.jpg</filename>
+	<path>D:\fyp\dataset\dataset 5\king_cobra\splitted\king_cobra_0075.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snake</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>422</xmin>
+			<ymin>141</ymin>
+			<xmax>631</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>
